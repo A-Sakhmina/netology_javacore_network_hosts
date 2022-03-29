@@ -1,7 +1,7 @@
 # netology_javacore_network_hosts
 Working with hosts file, client-server application with 3-5 steps 
 ## Задача "Клиент-сервер с рюшечками"
-Код по [ссылке](https://github.com/A-Sakhmina/netology_javacore_network_hosts.git)
+Код по [ссылке](https://github.com/A-Sakhmina/netology_javacore_network_hosts/tree/master/src/main/java)
 ### Задание 
 В серверной и клиентской части сделайте последовательность вызовов в рамках одной сессии таким образом, 
 чтобы получился некий **диалог между клиентом и сервером**, содержащий от 3 до 5 (или больше) шагов. 
